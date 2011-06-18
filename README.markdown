@@ -11,5 +11,7 @@ This is the official repository for the Symphony documentation site.
     * Suggesting changes
 * Submitting a pull request
 
-Questions? Contact docs@symphony-cms.com.
+## Questions? 
+
+Contact docs@symphony-cms.com
 
