@@ -1,0 +1,19 @@
+<article>
+	<title>Introduction to Symphony</title>
+	<version>1</version>
+	<author>
+		<name>Jonas Downey</name>
+		<url>http://jonasdowney.com</url>
+	</author>
+	<applicability>
+		<symphony-version>2.x</symphony-version>
+		<doctype>core</doctype>
+	</applicability>
+	<topics>
+		<topic>sections</topic>
+		<topic>fields</topic>
+		<topic>data sources</topic>
+		<topic>pages</topic>
+		<topic>utilities</topic>
+	</topics>
+</article>
